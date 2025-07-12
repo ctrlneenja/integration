@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "formidable": "^3.5.4",
+    "mammoth": "^1.9.1",
+    "next": "^15.3.5",
+    "pdf-parse": "^1.1.1",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@types/next": "^9.0.0",
+    "@types/react": "^19.1.8",
+    "@types/react-dom": "^19.1.6"
+  }
+}
